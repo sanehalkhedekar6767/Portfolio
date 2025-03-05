@@ -14,6 +14,9 @@ body {
 html {
   scroll-behavior: smooth;
 }
+span{
+  color: greenyellow;
+}
 
 p {
   color: rgb(85, 85, 85);
@@ -37,6 +40,7 @@ nav {
   justify-content: space-around;
   align-items: center;
   height: 17vh;
+  background-color: blue ;
 }
 
 .nav-links {
